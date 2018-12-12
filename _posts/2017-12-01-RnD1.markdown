@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Analytics for Tool Condition Monitoring"
+date: 2017-12-01
+author:
+meta: R&D Project, Autumn
+comments: false
+---
+
+<a href="/docs/rnd1.pdf" >[Report]</a>

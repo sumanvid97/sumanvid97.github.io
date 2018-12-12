@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Flappy Bird AI"
+date: 2018-04-30
+author: with Sneha Bhakare
+meta: Course Project for EE769&#58; Introduction to Machine Learning, Spring
+comments: false
+---
+
+<a href="https://medium.com/@videshsuman/using-reinforcement-learning-techniques-to-build-an-ai-bot-for-the-game-flappy-bird-30e0fd22f990" >[Blog]</a>
+<a href="https://github.com/sumanvid97/FlappyBird-AI" >[Code]</a>
+
+![](/docs/flappy.gif)
+
+The goal for this project is to explore the simple Q-learning technique and Deep Q-Network (DQN) to build a learned agent for the game that can play on it’s own for as long time as possible. Also, faster convergence is ensured for Q-learning by implementing 𝜀-greedy policy & experience replay strategy

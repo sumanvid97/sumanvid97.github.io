@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Gap Classification of a 3-Legged Unsignalized Intersection"
+date: 2017-11-30
+author: with Kumar Priyanshu
+meta: Course Project for CE310&#58; Transportation Engineering I, Autumn
+comments: false
+---
+
+<a href="/docs/te1.pdf" >[Report]</a>
+<a href="https://github.com/sumanvid97/TE1_Project" >[Code]</a>
