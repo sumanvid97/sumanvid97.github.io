@@ -10,4 +10,6 @@ comments: false
 <a href="/docs/fila.pdf" >[Report]</a>
 <a href="https://github.com/sumanvid97/FILA_Project" >[Code]</a>
 
+![](/docs/prog_nets.png)
+
 Deep neural networks provide rich representations that can enable reinforcement learning algorithms to perform effectively. Learning to solve complex sequences of tasks−while both leveraging transfer and avoiding catastrophic forgetting−remains a key obstacle to achieving human-level intelligence. Through this project, we have explored the area of multitask learning using the novel approach of progressive neural networks. This form of network architecture represents a step forward in the above stated direction: they are immune to forgetting and can leverage prior knowledge via lateral connections to previously learned features. We have evaluated this architecture on the baselines of the asynchronous advantage actor critic algorithm for two Atari games, Pong and Breakout.
