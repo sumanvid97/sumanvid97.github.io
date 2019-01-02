@@ -9,3 +9,13 @@ comments: false
 
 <a href="/docs/btp1_report.pdf" >[Report]</a>
 <a href="/docs/btp1_poster.pdf" >[Poster]</a>
+
+![](/docs/btp.png)
+
+I am working to leverage deep CNNs for statistical downscaling (corresponds to image super-resolution) of daily rainfall data for Indian landmass. The problem is to learn a transfer function from coarsely simulated (2.5◦) climate parameters to the corresponding high resolution (0.25◦) rainfall projection. Predicting the observed rainfall projections for future can play crucial role in formulating strategies regarding water- food-energy nexus and disaster mitigation planning. In this research, the key idea has been to treat these gridded projections analogous to images. Even though, climate data is more complex than images due to it’s dynamics and chaotic nature, this representation has allowed me to approach the data in an unconventional manner and accordingly augment the models developed for computer vision.
+This problem has been challenging despite having trained multiple variants of custom super-resolution CNNs, owing to the large (10×) scaling factor. Besides, the varying geophysical processes governing the local rainfall patterns make it difficult for a single model to generalize over the entire landmass. To account for these shortcomings, I am working towards introducing the elevation parameter (available in very high resolution) as an auxiliary input, and individually training a shallower CNN for each meteorologically homogeneous zone of the landmass.
+
+References: [DeepSD], [Using Regression for Multisite Daily Rainfall Projections]
+
+[DeepSD]: https://arxiv.org/pdf/1703.03126.pdf
+[Using Regression for Multisite Daily Rainfall Projections]: https://agupubs.onlinelibrary.wiley.com/doi/10.1002/jgrd.50280

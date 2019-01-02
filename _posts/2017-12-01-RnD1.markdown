@@ -3,8 +3,14 @@ layout: post
 title: "Analytics for Tool Condition Monitoring"
 date: 2017-12-01
 author:
-meta: R&D Project, Autumn
+meta: R&D Project under Prof. Asim Tewari, Autumn
 comments: false
 ---
 
 <a href="/docs/rnd1.pdf" >[Report]</a>
+
+![](/docs/rnd1.png)
+
+Tool wear is the most undesirable characteristic of machining processes as it adversely affects the tool life, which is of foremost importance in metal cutting owing to its direct impact on the quality of the machined surface (workpiece), and its dimensional accuracy, and consequently, the economics of machining operations. Therefore, methods for cutting tool wear sensing are crucial in view of the optimum use of cutting tools. With an effective monitoring system, the damages to the machine tool, downtime and scrapped components can be avoided.
+
+Through this research project, I explored the area of data-driven techniques leveraging predictive analytics for tool condition monitoring. 

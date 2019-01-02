@@ -46,14 +46,15 @@ baseurl: ""
 
 
 title: Videsh Suman
-email: sumanvid97@gmail.com
-
+email1: sumanvid97@gmail.com
+email2: sumanvid97@iitb.ac.in
 github_username:  sumanvid97
-facebook_username: Videsh 
-linkedin_username: Videsh 
-facebook_id: sumanvid97
+# facebook_username: Videsh Suman
+linkedin_username: Videsh Suman
+# facebook_id: sumanvid97
 linkedin_id: sumanvid97
-address: Indian Institue of Technology Bombay, Mumbai-400076, India
+address1: Room No. 110, Penthouse, 
+address2: IIT Bombay, Mumbai-400076.
 # Build Settings
 sass:
   sass_dir: _sass

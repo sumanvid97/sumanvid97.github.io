@@ -3,8 +3,18 @@ layout: post
 title: "Literature Review: Deep Learning for Medical Image Analysis"
 date: 2018-04-30
 author:
-meta: R&D Project, Spring
+meta: R&D Project under Prof. Amit Sethi, Spring
 comments: false
 ---
 
 <a href="/docs/rnd2.pdf" >[Slides]</a>
+
+![](/docs/lr.png)
+
+Deep learning algorithms, in particular convolutional networks, have rapidly become a methodology of choice for
+analyzing medical images. I surveyed the use of deep learning for image classification, object detection, segmentation, and other tasks by extensively reading the relevant research papers. 
+
+I critically reviewed and presented two important works: [classification of whole slide images] and [graph based pancreas segmentation in MRI scans]. 
+
+[classification of whole slide images]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192726
+[graph based pancreas segmentation in MRI scans]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5223591/
