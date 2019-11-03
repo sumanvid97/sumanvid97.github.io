@@ -1,17 +1,15 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-{% include head.html %}
-
-<body>
-	{% include header.html %}
-	<!-- {% include masthead.html %} -->
-	<main>
-		<article>
+	<head>
+		<meta charset="utf-8">
+		<title>{{ site.title }} - {{ page.title }}</title>
+		<link rel="stylesheet" href="/assets/css/styles.css">
+	</head>
+	<body>
+		{% include navigation.html %}
+		{% include bio.html %}
+		<wrapper>
 			{{ content }}
-		</article>
-		
-	</main>
-	{% include footer.html %}
-</body>
-
+		</wrapper>
+	</body>
 </html>

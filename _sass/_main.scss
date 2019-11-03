@@ -1,0 +1,134 @@
+$font-style: 'Proxima Nova', sans-serif;
+$font-color: #262626;
+
+$darkBlue: #025a8c;
+$blue: #4183C4;
+$black: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
+
+a{
+	text-decoration: none;
+	color: $darkBlue;
+	font-family: $font-style;
+	&:hover, &:active {
+		color: $blue;
+	}
+}
+
+aside {
+	position: fixed;
+	top: 0;
+	background: $white;
+	width: 60%;
+	margin: 0px auto;
+	border-bottom: 1px solid $lightGray;
+	home {
+		float: left;
+		a{
+			display: block;
+			line-height: 20px;
+			padding: 15px;
+			margin-left: 5px;
+			font-size: 24px;
+			font-weight: lighter;
+			color: $gray;
+			&:hover, &:active {
+				color: $black;
+			}
+
+		}
+	}
+	nav {
+		float: right;
+		ul {
+			margin: 0;
+			padding: 0;
+			list-style: none;
+			li {
+				float: left;
+				position: relative;
+				a{
+					display: block;
+					line-height: 20px;
+					padding: 15px;
+					font-size: 19px;
+					color: $gray;
+					&:hover, &:active {
+						color: $black;
+					}
+				}
+			}
+		}
+	}
+}
+
+dp {
+	position: fixed;
+	margin-top: 80px;
+	margin-left: 0px;
+	width: 12%;
+	img {
+		border-radius: 50%;
+	}
+}
+
+bio{
+	position: fixed;
+	margin-top: 275px;
+	margin-left: 0px;
+	width: 12%;
+	ul {
+		list-style: none;
+		li {
+			margin-left:-40px;
+			float: top;
+			padding: 5px;
+			font-family: $font-style;
+			position: relative;
+			color: $black;
+		}
+	}
+	ul1 {
+		list-style: none;
+		a {
+			margin-top: -10px;
+			display: block;
+			line-height: 20px;
+			float: left;
+			position: relative;
+		}
+	}
+}
+
+wrapper{
+	margin-top: 80px;
+	max-width: 70%;
+	float: right;
+	font-family: $font-style;
+	font-size: 16px;
+	line-height: 22px;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+    margin: 0px;
+}
+
+.icon {
+    > svg {
+        display: inline-block;
+        width: 25px;
+        height: 25px;
+        padding: 0px 5px;
+        filter: grayscale(80%);
+    }
+}
+
+body {
+	max-width: 60%;
+	margin: 0px auto;
+}

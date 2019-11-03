@@ -1,67 +1,32 @@
-# Site Settings
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-
-# Name of your site (displayed in the header)
-myname: Videsh Suman
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Videsh
+name: Videsh Suman
+position: Graduate Student 
+affiliation: CICS, UMass Amherst
+affiliation_url: https://www.cics.umass.edu/
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 alias: sumanvid97
-# Short bio or description (displayed in the header)
-byline: 
+gmail: sumanvid97@gmail.com
+umass_mail: vsuman@cs.umass.edu
+github: https://github.com/sumanvid97
+linkedin: https://in.linkedin.com/in/sumanvid97
+twitter: https://twitter.com/sumanvid97
+google_scholar:
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars2.githubusercontent.com/u/16670629?s=400&u=73618abbf91c5690e53940f3444bfb797d3745b6&v=4
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: sumanvid97
-  facebook:
-  flickr:
-  github: sumanvid97
-  instagram:
-  linkedin: sumanvid97
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: sumanvid97
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus: sumanvid97
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
-
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url: "http://sumanvid97.github.io"
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
-
-
-title: Videsh Suman
-email1: sumanvid97@gmail.com
-email2: sumanvid97@iitb.ac.in
-github_username:  sumanvid97
-# facebook_username: Videsh Suman
-linkedin_username: Videsh Suman
-# facebook_id: sumanvid97
-linkedin_id: sumanvid97
-address1: Room No. 110, Penthouse, 
-address2: IIT Bombay, Mumbai-400076.
-# Build Settings
-sass:
-  sass_dir: _sass
-include: ['_pages']
 kramdown:
   input: GFM
-plugins:
-  - jekyll-redirect-from
-whitelist:
-  - jekyll-redirect-from
