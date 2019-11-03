@@ -30,6 +30,7 @@ For an overview on my projects, internships and achievements, go through my [cur
 [Machine Learning and Friends Lunch]: http://ds.cs.umass.edu/mlfl
 [Web n Coding Club]: https://wncc-iitb.org/
 [Mood Indigo]: https://moodi.org/
+[F.R.I.E.N.D.S]: https://en.wikipedia.org/wiki/Friends
 [PhDComics]: http://phdcomics.com/
 [curriculum vitae]: /docs/cv.pdf
 
