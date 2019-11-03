@@ -7,7 +7,7 @@ title: Projects
 *Advanced Machine Learning under Prof. [Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/), Spring 2019* \\
 [[report]](/docs/aml.pdf) [[code]](https://github.com/sumanvid97/archetypal_style_analysis)
 
-<img src="/docs/style_transfer.png" style="width:30%; height:30%"/>
+<img src="/images/style_transfer.png" style="width:30%; height:30%"/>
 
 Derived 32 archetypal styles from van Gogh’s 2046 artworks, implemented the universal style transfer technique. Verified the findings of the paper like quality of stylization & archetypal analysis through multiple experiments. \\
 *Original Paper: [Unsupervised Learning of Artistic Styles with
@@ -18,7 +18,7 @@ Archetypal Style Analysis](https://papers.nips.cc/paper/7893-unsupervised-learni
 *Deep Learning under Prof. [P. Balamurugan](http://www.ieor.iitb.ac.in/balamurugan.palaniappan), Fall 2018* \\
 [[report]](/docs/dl.pdf) [[code]](https://github.com/sumanvid97/DL_Project)
 
-<img src="/docs/srgan_manifold.png" style="width:40%; height:30%"/>
+<img src="/images/srgan_manifold.png" style="width:40%; height:30%"/>
 
 Implemented a GAN for image super-resolution on Pascal VOC2012, using SRResNet as the generator network. Incorporated perceptual loss along with the adversarial loss for photo-realistic super-resolved generator outputs. \\
 *Original Paper: [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial
@@ -29,7 +29,7 @@ Network](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ledig_Photo-Reali
 *Reinforcement Learning under Prof. [Shivaram Kalyanakrishnan](https://www.cse.iitb.ac.in/~shivaram/), Fall 2018* \\
 [[report]](/docs/fila.pdf) [[code]](https://github.com/sumanvid97/FILA_Project)
 
-<img src="/docs/prog_nets.png" style="width:25%; height:40%"/>
+<img src="/images/prog_nets.png" style="width:25%; height:40%"/>
 
 Investigated the prospects of multitask learning by adding lateral connections to the A3C framework. The idea was to transfer knowledge from source task (Pong) to target task (Breakout) to improve results on target task. \\
 *Original Paper: [Progressive Neural Networks](https://arxiv.org/pdf/1606.04671.pdf)*
@@ -39,7 +39,7 @@ Investigated the prospects of multitask learning by adding lateral connections t
 *Introduction to Machine Learning under Prof. [Amit Sethi](https://www.ee.iitb.ac.in/~asethi/), Spring 2018* \\
 [[blog]](https://medium.com/@videshsuman/using-reinforcement-learning-techniques-to-build-an-ai-bot-for-the-game-flappy-bird-30e0fd22f990) [[code]](https://github.com/sumanvid97/FlappyBird-AI)
 
-<img src="/docs/flappy.gif" style="width:25%; height:35%"/>
+<img src="/images/flappy.gif" style="width:25%; height:35%"/>
 
 Trained an environment agnostic bot for the game using Q-learning & Deep Q-Network to produce a comparative analysis between the two frameworks. The DQN framework learnt significantly faster. Ensured early convergence by incorporating greedy & experience replay strategies while training. \\
 *Original Paper: [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)*
