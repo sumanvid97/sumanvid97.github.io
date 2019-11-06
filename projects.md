@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-### Unsupervised Learning for Archetypal Style Aanlysis
+### Unsupervised Learning for Archetypal Style Analysis
 *Advanced Machine Learning under Prof. [Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/), Spring 2019* \\
 [[report]](/docs/aml.pdf) [[code]](https://github.com/sumanvid97/archetypal_style_analysis)
 
