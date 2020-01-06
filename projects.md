@@ -3,6 +3,17 @@ layout: default
 title: Projects
 ---
 
+### Semi-Supervised Learning for Vision-and-Language Tasks using MixMatch
+*Computer Vision under Prof. [Subhransu Maji](https://people.cs.umass.edu/~smaji/), Fall 2019* \\
+[[report]](/docs/cv_report.pdf) [[code]](https://github.com/martiansideofthemoon/mixmatch_lxmert)
+
+<img src="/images/mixmatch.png" style="width:50%; height:50%"/>
+
+Implemented a recent semi-supervised learning approach MixMatch on the LXMERT framework, by strategically mixing-up the labeled and unlabeled multi-modal examples of a visual-language reasoning dataset, NLVR2. \\
+*Original Papers: [MixMatch: A Holistic Approach to
+Semi-Supervised Learning](https://papers.nips.cc/paper/8749-mixmatch-a-holistic-approach-to-semi-supervised-learning.pdf), [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/pdf/1908.07490.pdf)*
+
+
 ### Unsupervised Learning for Archetypal Style Analysis
 *Advanced Machine Learning under Prof. [Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/), Spring 2019* \\
 [[report]](/docs/aml.pdf) [[code]](https://github.com/sumanvid97/archetypal_style_analysis)

@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-I am a Master's student in Computer Science, [UMass Amherst]. My research interests lie in computer vision and machine learning. Currently, I am being advised by Prof. [Dan Sheldon] and Prof. [Subhransu Maji] on segmenting bird roosts in weather radar scans. 
+I am a Master's student in Computer Science, [UMass Amherst]. My research interests lie in computer vision and machine learning. Currently, my research is directed towards segmenting bird roosts in weather radar scans, under the guidance of Prof. [Dan Sheldon] and Prof. [Subhransu Maji]. 
 
 Before this, I spent four wonderful years as an undergraduate student at [IIT Bombay]. For my thesis, I leveraged modern deep vision techniques for super resolution of the precipitation parameter over the Indian landmass. Last summer, I was fortunate to have interned at [Microsoft Research India]. I worked on devising state-space models for data-informed network simulation.
 
-I maintain a record of my humble [research] and some [research implementations] under the respective tabs. To get an insight on my recent academic endeavours, please take a look at my [CV]. Feel free to read more [about me]! 
+I maintain a record of my [research] and some [research implementations] under the respective tabs. To get an insight on my recent academic endeavours, please take a look at my [CV]. Feel free to read more [about me]! 
 
 
 <!-- ### Updates

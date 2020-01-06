@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-Hi! My name is Videsh Suman. I am a first-year Master's student in the [College of Information and Computer Sciences] at [University of Massachusetts Amherst]. Everyday I feel more inspired by Machine Learning research, and intend to do a PhD soon. My academic interests span the different facets of Machine Learning and Computer Vision. More specifically, I'm exploring the areas of semi-supervised learning, semantic segmentation and learning for vision + language tasks. This semester, my research is being advised by Prof. [Dan Sheldon] and Prof. [Subhransu Maji]. 
+Hi! My name is Videsh Suman. I am a first-year Master's student in the [College of Information and Computer Sciences] at [University of Massachusetts Amherst]. Everyday I feel more inspired by Machine Learning research, and intend to do a PhD soon. My academic interests span the different facets of Machine Learning and Computer Vision. More specifically, I'm exploring the areas of semi-supervised learning, semantic segmentation and learning for vision + language tasks. Currently, my research is being advised by Prof. [Dan Sheldon] and Prof. [Subhransu Maji].
 
 Before this, I was majoring in [Civil Engineering] as an undergraduate at [IIT Bombay]. Though the later half of my undergrad was essentially invested in understanding an array of topics on Computer Science and Machine Learning. In my final year, I was a part of the Medical Deep Learning and AI Lab. My Bachelor's thesis was jointly advised by Prof. [Amit Sethi] and Prof. [Subimal Ghosh]. 
 
@@ -11,7 +11,7 @@ I spent the summer of 2019 interning at [Microsoft Research], Bengaluru. I worke
 
 I help organize [Machine Learning and Friends Lunch] at UMass every Thursday. Do get in touch if you want to give a talk some time. In my initial years at IITB, I used to be one of the active organizing members of [Web n Coding Club] and [Mood Indigo]. 
 
-I consider myself an avid enthusiast of visual arts and music. Occasionally, I like to sketch or play the guitar. Some of my favourite musical artists are Led Zeppelin, The Beatles, Queen, Pink Floyd and AR Rahman. I love watching [F.R.I.E.N.D.S] every now and then. I also enjoy reading [PhDComics] once in a while.
+I consider myself an avid enthusiast of visual arts and music. Occasionally, I like to sketch or play the guitar. Some of my favourite artists include Led Zeppelin, The Beatles, Queen and Pink Floyd. I love watching [F.R.I.E.N.D.S] every now and then. [PhDComics] is really fun too.
 
 For an overview on my projects, internships and achievements, go through my [curriculum vitae].
 
