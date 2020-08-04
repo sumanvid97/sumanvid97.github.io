@@ -3,7 +3,8 @@ layout: default
 title: Home
 ---
 
-I am a Master's student in Computer Science, [UMass Amherst]. My research interests lie in computer vision and machine learning. Currently, my research is directed towards segmenting bird roosts in weather radar scans, under the guidance of Prof. [Dan Sheldon] and Prof. [Subhransu Maji]. 
+I am an MS student in Computer Science, [UMass Amherst]. My research interests lie in computer vision and machine learning. Currently, I'm working remotely with Prof. [Aniket Bera] ([GAMMA Lab], [UMD]) towards the goal of risk assessment for autonomous vehicles through ego-centric driving videos. 
+
 
 Before this, I spent four wonderful years as an undergraduate student at [IIT Bombay]. For my thesis, I leveraged modern deep vision techniques for super resolution of the precipitation parameter over the Indian landmass. Last summer, I was fortunate to have interned at [Microsoft Research India]. I worked on devising state-space models for data-informed network simulation.
 
@@ -24,11 +25,14 @@ I maintain a record of my [research] and some [research implementations] under t
 
 
 [UMass Amherst]: https://www.umass.edu/
+[Aniket Bera]: https://www.cs.umd.edu/~ab/
+[GAMMA Lab]: https://gamma.umd.edu/
+[UMD]: https://cs.umd.edu/
 [Dan Sheldon]: https://people.cs.umass.edu/~sheldon/
 [Subhransu Maji]: https://people.cs.umass.edu/~smaji/
 [IIT Bombay]: http://iitb.ac.in/
 [Microsoft Research India]: https://www.microsoft.com/en-us/research/lab/microsoft-research-india/
 [research]: /research
 [research implementations]: /projects
-[CV]: /docs/cv.pdf
+[CV]: /docs/Videsh_Suman_CV.pdf
 [about me]: /about

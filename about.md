@@ -3,9 +3,9 @@ layout: default
 title: About
 ---
 
-Hi! My name is Videsh Suman. I am a first-year Master's student in the [College of Information and Computer Sciences] at [University of Massachusetts Amherst]. Everyday I feel more inspired by Machine Learning research, and intend to do a PhD soon. My academic interests span the different facets of Machine Learning and Computer Vision. More specifically, I'm exploring the areas of semi-supervised learning, semantic segmentation and learning for vision + language tasks. Currently, my research is being advised by Prof. [Dan Sheldon] and Prof. [Subhransu Maji].
+Hi! My name is Videsh Suman. I am a second-year MS student in the [College of Information and Computer Sciences] at [University of Massachusetts Amherst]. Everyday I feel more inspired by Machine Learning research, and intend to do a PhD soon. My academic interests span the different facets of Machine Learning and Computer Vision. My current research on risk assessment via traffic interaction modeling has gotten me really excited about the field of Autonomous Driving research. Previously, I was exploring the areas of semi-supervised learning, vision applied to ecology and vision + language learning through research implementations.
 
-Before this, I was majoring in [Civil Engineering] as an undergraduate at [IIT Bombay]. Though the later half of my undergrad was essentially invested in understanding an array of topics on Computer Science and Machine Learning. In my final year, I was a part of the Medical Deep Learning and AI Lab. My Bachelor's thesis was jointly advised by Prof. [Amit Sethi] and Prof. [Subimal Ghosh]. 
+Before grad school, I was majoring in [Civil Engineering] as an undergraduate at [IIT Bombay]. Though the later half of my undergrad was essentially invested in understanding an array of topics on Computer Science and Machine Learning. In my final year, I was a part of the Medical Deep Learning and AI Lab. My Bachelor's thesis was jointly advised by Prof. [Amit Sethi] and Prof. [Subimal Ghosh]. 
 
 I spent the summer of 2019 interning at [Microsoft Research], Bengaluru. I worked on state space modeling approaches for data-informed network simulation, and was primarily advised by Dr. [Sundararajan Sellamanickam]. This experience was quite instrumental for my inclination towards research. In the summer of 2018, I had interned at [Disney India], where I used NLP technologies to create a PoC of task based conversational assistants. 
 
@@ -13,7 +13,7 @@ I help organize [Machine Learning and Friends Lunch] at UMass every Thursday. Do
 
 I consider myself an avid enthusiast of visual arts and music. Occasionally, I like to sketch or play the guitar. Some of my favourite artists include Led Zeppelin, The Beatles, Queen and Pink Floyd. I love watching [F.R.I.E.N.D.S] every now and then. [PhDComics] is really fun too.
 
-For an overview on my projects, internships and achievements, go through my [curriculum vitae].
+For an overview on my projects, internships and achievements, go through my [CV].
 
 
 [College of Information and Computer Sciences]: https://www.cics.umass.edu/
@@ -32,5 +32,5 @@ For an overview on my projects, internships and achievements, go through my [cur
 [Mood Indigo]: https://moodi.org/
 [F.R.I.E.N.D.S]: https://en.wikipedia.org/wiki/Friends
 [PhDComics]: http://phdcomics.com/
-[curriculum vitae]: /docs/cv.pdf
+[CV]: /docs/Videsh_Suman_CV.pdf
 

@@ -27,7 +27,7 @@ Archetypal Style Analysis](https://papers.nips.cc/paper/7893-unsupervised-learni
 
 ### Single Image Super-resolution using Adversarial Training
 *Deep Learning under Prof. [P. Balamurugan](http://www.ieor.iitb.ac.in/balamurugan.palaniappan), Fall 2018* \\
-[[report]](/docs/dl.pdf) [[code]](https://github.com/sumanvid97/DL_Project)
+[[report]](/docs/dl.pdf) [[code]](https://github.com/sumanvid97/super_resolution_gan)
 
 <img src="/images/srgan_manifold.png" style="width:40%; height:30%"/>
 
@@ -38,7 +38,7 @@ Network](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ledig_Photo-Reali
 
 ### Progressive Nets for Multitask Learning  
 *Reinforcement Learning under Prof. [Shivaram Kalyanakrishnan](https://www.cse.iitb.ac.in/~shivaram/), Fall 2018* \\
-[[report]](/docs/fila.pdf) [[code]](https://github.com/sumanvid97/FILA_Project)
+[[report]](/docs/fila.pdf) [[code]](https://github.com/sumanvid97/progressive_nets_for_multitask_rl)
 
 <img src="/images/prog_nets.png" style="width:25%; height:40%"/>
 
