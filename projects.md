@@ -14,8 +14,7 @@ Implemented a recent semi-supervised learning approach MixMatch on the LXMERT fr
 Semi-Supervised Learning](https://papers.nips.cc/paper/8749-mixmatch-a-holistic-approach-to-semi-supervised-learning.pdf), [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/pdf/1908.07490.pdf)*
 
 ### Roost Segmentation using Weather Radar Data | UMass Amherst
-*Independent Study under Prof. [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/) and Prof. [Subhransu Maji](https://people.cs.umass.edu/~smaji/)* \\
-*(Fall 2019 - Present)* \\
+*Independent Study under Prof. [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/) and Prof. [Subhransu Maji](https://people.cs.umass.edu/~smaji/), Fall 2019* \\
 [[report]](/docs/is1_report.pdf)
 
 <img src="/images/finetuning_mistnet.png" style="width:30%; height:30%"/>
@@ -64,7 +63,7 @@ Investigated the prospects of multitask learning by adding lateral connections t
 Trained an environment agnostic bot for the game using Q-learning & Deep Q-Network to produce a comparative analysis between the two frameworks. The DQN framework learnt significantly faster. Ensured early convergence by incorporating greedy & experience replay strategies while training. \\
 *Original Paper: [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)*
 
-
+<!-- 
 ### Deep Learning for Medical Image Analysis
 *Literature Review under Prof. [Amit Sethi](https://www.ee.iitb.ac.in/~asethi/), Spring 2018* \\
 [[slides]](/docs/rnd2.pdf)
@@ -78,4 +77,4 @@ Conducted extensive study on deep learning methods for instance segmentation & c
 *Technical Project under Prof. [Asim Tewari](https://www.me.iitb.ac.in/?q=faculty/Prof.%20Asim%20Tewari), Fall 2017* \\
 [[report]](/docs/rnd1.pdf)
 
-Predicted the wear states using SVR (R2⇠ 98.8%) on a public force/vibration dataset of a cutting tool. Analyzed the frequency domain of collected signals (from actual milling experiments) to extract the required signal lobes (corresponding to the actual cutting of the workpiece) for each of the parameterized runs. 
+Predicted the wear states using SVR (R2⇠ 98.8%) on a public force/vibration dataset of a cutting tool. Analyzed the frequency domain of collected signals (from actual milling experiments) to extract the required signal lobes (corresponding to the actual cutting of the workpiece) for each of the parameterized runs.  -->
