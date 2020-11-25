@@ -13,6 +13,15 @@ Implemented a recent semi-supervised learning approach MixMatch on the LXMERT fr
 *Original Papers: [MixMatch: A Holistic Approach to
 Semi-Supervised Learning](https://papers.nips.cc/paper/8749-mixmatch-a-holistic-approach-to-semi-supervised-learning.pdf), [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/pdf/1908.07490.pdf)*
 
+### Roost Segmentation using Weather Radar Data | UMass Amherst
+*Independent Study under Prof. [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/) and Prof. [Subhransu Maji](https://people.cs.umass.edu/~smaji/)* \\
+*(Fall 2019 - Present)* \\
+[[report]](/docs/is1_report.pdf)
+
+<img src="/images/finetuning_mistnet.png" style="width:30%; height:30%"/>
+
+I finetuned MistNet, a deep CNN for discriminating biology from precipitation in radar scans, to correctly segment the bird roosts and filter out the false positive detections obtained by a recently proposed [roost detection model](https://people.cs.umass.edu/~zezhoucheng/roosts/). As a future direction, I proposed transfer learning strategies and a Mask-RCNN based approach to address the catastrophic forgetting of the finetuned MistNet.
+
 
 ### Unsupervised Learning for Archetypal Style Analysis
 *Advanced Machine Learning under Prof. [Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/), Spring 2019* \\

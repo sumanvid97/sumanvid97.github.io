@@ -3,16 +3,6 @@ layout: default
 title: Research
 ---
 
-### Roost Segmentation using Weather Radar Data | UMass Amherst
-*Independent Study under Prof. [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/) and Prof. [Subhransu Maji](https://people.cs.umass.edu/~smaji/)* \\
-*(Fall 2019 - Present)* \\
-[[report]](/docs/is1_report.pdf)
-
-<img src="/images/finetuning_mistnet.png" style="width:30%; height:30%"/>
-
-I am finetuning MistNet, a deep CNN for discriminating biology from precipitation in radar scans, to correctly segment the bird roosts and filter out the false positive detections obtained by a recently proposed [roost detection model](https://people.cs.umass.edu/~zezhoucheng/roosts/). The future goal is to extend the existing roost detection model to an instance segmentation based model for more accurate detection and tracking of the roosts. 
-
-
 ### Data Informed Network Simulation | Microsoft Research India
 *Research Internship under Dr. [N. Natarajan](https://scholar.google.com/citations?hl=en&user=ZBkUp20AAAAJ), Dr. [S. Sellamanickam](https://www.microsoft.com/en-us/research/people/ssrajan/) and Dr. [V. Padmanabhan](https://www.microsoft.com/en-us/research/people/padmanab/)* \\
 *(Summer 2019)* 
