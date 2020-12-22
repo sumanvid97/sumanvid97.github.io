@@ -3,13 +3,23 @@ layout: default
 title: Projects
 ---
 
+### Discriminative Adversarial Search
+*Advanced NLP under Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/), Fall 2020* \\
+[[report]](/docs/nlp_report.pdf) [[code]](https://github.com/gitting-it-right/das_nlp)
+
+<img src="/images/das.png" style="width:50%; height:50%"/>
+
+Investigated the reproducibility of this ICML 2020 paper by training a discriminator to perform the discriminative beam reranking
+algorithm over [UniLM](https://github.com/microsoft/unilm/tree/master/unilm-v1)’s vanilla beam search for an abstractive summarization dataset CNN DailyMail. \\
+*Original Paper: [Discriminative Adversarial Search for Abstractive Summarization](https://papers.nips.cc/paper/8749-mixmatch-a-holistic-approach-to-semi-supervised-learning.pdf)*
+
 ### Semi-Supervised Learning for Vision-and-Language Tasks using MixMatch
 *Computer Vision under Prof. [Subhransu Maji](https://people.cs.umass.edu/~smaji/), Fall 2019* \\
 [[report]](/docs/cv_report.pdf) [[code]](https://github.com/martiansideofthemoon/mixmatch_lxmert)
 
 <img src="/images/mixmatch.png" style="width:50%; height:50%"/>
 
-Implemented a recent semi-supervised learning approach MixMatch on the LXMERT framework, by strategically mixing-up the labeled and unlabeled multi-modal examples of a visual-language reasoning dataset, NLVR2. \\
+Implemented a recent semi-supervised learning approach MixMatch on the LXMERT framework, by strategically mixing-up the labeled and unlabeled multi-modal examples of a challenging visual-language reasoning dataset, NLVR2. \\
 *Original Papers: [MixMatch: A Holistic Approach to
 Semi-Supervised Learning](https://papers.nips.cc/paper/8749-mixmatch-a-holistic-approach-to-semi-supervised-learning.pdf), [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/pdf/1908.07490.pdf)*
 
