@@ -1,8 +1,8 @@
 - name: About
   link: /about
-- name: Research
-  link: /research
-- name: Projects
-  link: /projects 
+# - name: Research
+#   link: /research
+# - name: Projects
+#   link: /projects 
 - name: CV
   link: /docs/Videsh_Suman_CV.pdf

@@ -8,7 +8,8 @@ I am an MS student in Computer Science, [UMass Amherst]. My research interests l
 
 Before this, I spent four wonderful years as an undergraduate student at [IIT Bombay]. For my thesis, I leveraged modern deep vision techniques for super resolution of the precipitation parameter over the Indian landmass. In the summer of 2019, I was fortunate to have interned at [Microsoft Research India]. I worked on devising state-space models for data-informed network simulation.
 
-I maintain a record of my [research] and some [research implementations] under the respective tabs. To get an insight on my recent academic endeavours, please take a look at my [CV]. Feel free to read more [about me]! 
+<!-- I maintain a record of my [research] and some [research implementations] under the respective tabs.  -->
+To get an insight on my recent academic endeavours, please take a look at my [CV]. Feel free to read more [about me]! 
 
 
 <!-- ### Updates
@@ -32,7 +33,7 @@ I maintain a record of my [research] and some [research implementations] under t
 [Subhransu Maji]: https://people.cs.umass.edu/~smaji/
 [IIT Bombay]: http://iitb.ac.in/
 [Microsoft Research India]: https://www.microsoft.com/en-us/research/lab/microsoft-research-india/
-[research]: /research
-[research implementations]: /projects
+<!-- [research]: /research
+[research implementations]: /projects -->
 [CV]: /docs/Videsh_Suman_CV.pdf
 [about me]: /about
