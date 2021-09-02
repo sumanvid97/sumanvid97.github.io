@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+**Hi, this website is currently outdated. Feel free to check out my most recent [CV].**
+
 I am an MS student in Computer Science, [UMass Amherst]. My research interests lie in computer vision and machine learning. Currently, I'm working remotely with Prof. [Aniket Bera] ([GAMMA Lab], [UMD]) towards the goal of risk assessment for autonomous vehicles through ego-centric driving videos. 
 
 
