@@ -3,6 +3,8 @@ layout: default
 title: About
 ---
 
+**Warning! This hasn't been updated since the summer of 2020.**
+
 Hi! My name is Videsh Suman. I am a second-year MS student in the [College of Information and Computer Sciences] at [University of Massachusetts Amherst]. Everyday I feel more inspired by Machine Learning research, and intend to build a career in this field. My academic interests span the different facets of Machine Learning and Computer Vision. My current research on risk assessment via traffic interaction modeling has gotten me really excited about the field of Autonomous Driving research. Previously, I was exploring the areas of semi-supervised learning, vision applied to ecology and vision + language learning through some research implementations.
 
 Before grad school, I was majoring in [Civil Engineering] as an undergraduate at [IIT Bombay]. Though the later half of my undergrad was essentially invested in understanding an array of topics on Computer Science and Machine Learning. In my final year, I was a part of the Medical Deep Learning and AI Lab. My Bachelor's thesis was jointly advised by Prof. [Amit Sethi] and Prof. [Subimal Ghosh]. 
